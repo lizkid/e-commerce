@@ -1,0 +1,26 @@
+
+#card {
+    border-top: 2px solid #116466;
+    cursor: pointer;
+}
+
+#card:hover{
+    box-shadow: 0 0 8px 2px #d5dee79e;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+#card div a{
+    color: #f2851c;
+    transition: 0.5s ease-in-out;
+}
+
+#card div a:hover{
+    color: #f2851c;
+}
